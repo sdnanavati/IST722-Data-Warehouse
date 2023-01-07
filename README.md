@@ -1,7 +1,7 @@
 # IST722-Data-Warehouse
 This folder contains the coursework and project work of IST 722 Data Warehouse under Prof. Humayun Khan (Fall 2022 Quarter) at Syracuse University iSchool.
 
-Key Learnings
+#Key Learnings
 
   1.Describe various database constructs - ODS, Data Warehouse, Data Mart
   
@@ -19,8 +19,8 @@ Key Learnings
   
 
 
-Technologies and Concepts
+#Technologies and Concepts
 
-Technologies: SQL, SSIS, SSAS, SSRS, MS Power BI, MS SQL Server, MS Excel
+  Technologies: SQL, SSIS, SSAS, SSRS, MS Power BI, MS SQL Server, MS Excel
 
-Concepts: ETL, Inmom-Kimball, Star/Snowflake schema, BI reporting, SQL Query Optimization, MOLAP cubes, Dashboarding and reporting
+  Concepts: ETL, Inmom-Kimball, Star/Snowflake schema, BI reporting, SQL Query Optimization, MOLAP cubes, Dashboarding and reporting
